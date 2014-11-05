@@ -68,3 +68,6 @@ doc/html
 doc/doxygen-build.stamp
 doc/documentation.doxygen
 
+# ignore Xcode build folder
+xcode/LibXtract/build
+xcode/lib
