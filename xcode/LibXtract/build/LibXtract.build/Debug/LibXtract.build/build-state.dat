@@ -1,909 +1,0 @@
-TLibXtract
-v6
-r1
-cCheck dependencies
-cCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fini.o /Users/Q/Code/LibXtract/src/fini.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/libxtract.o /Users/Q/Code/LibXtract/src/libxtract.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/helper.o /Users/Q/Code/LibXtract/src/helper.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fftsg.o /Users/Q/Code/LibXtract/src/ooura/fftsg.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/stateful.o /Users/Q/Code/LibXtract/src/stateful.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/delta.o /Users/Q/Code/LibXtract/src/delta.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/ringbuf.o /Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/descriptors.o /Users/Q/Code/LibXtract/src/descriptors.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/vector.o /Users/Q/Code/LibXtract/src/vector.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/init.o /Users/Q/Code/LibXtract/src/init.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/window.o /Users/Q/Code/LibXtract/src/window.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/dywapitchtrack.o /Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/scalar.o /Users/Q/Code/LibXtract/src/scalar.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/Q/Code/LibXtract/xcode/lib/LibXtract_d.a normal i386
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
-c00000000530295C100000000000000AA
-t1392678337
-s170
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
-c0000000053C90B12000000000000044C
-t1405684498
-s1100
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
-c0000000053C90B1200000000000001DE
-t1405684498
-s478
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
-c0000000053C90B1F0000000000000ADC
-t1405684511
-s2780
-
-N/Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c
-c000000005459FD18000000000000217F
-t1415183640
-s8575
-
-N/Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.h
-c000000005459FD1800000000000023B1
-t1415183640
-s9137
-
-N/Users/Q/Code/LibXtract/src/delta.c
-c000000005459FD180000000000000BDC
-t1415183640
-s3036
-
-N/Users/Q/Code/LibXtract/src/descriptors.c
-c000000005459FD18000000000000C613
-t1415183640
-s50707
-
-N/Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c
-c000000005459FD180000000000002FAC
-t1415183640
-s12204
-
-N/Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.h
-c000000005459FD18000000000000131A
-t1415183640
-s4890
-
-N/Users/Q/Code/LibXtract/src/fft.h
-c000000005459FD1800000000000006EE
-t1415183640
-s1774
-
-N/Users/Q/Code/LibXtract/src/fini.c
-c000000005459FD180000000000000527
-t1415183640
-s1319
-
-N/Users/Q/Code/LibXtract/src/helper.c
-c000000005459FD180000000000000C05
-t1415183640
-s3077
-
-N/Users/Q/Code/LibXtract/src/init.c
-c000000005459FD180000000000002E9C
-t1415183640
-s11932
-
-N/Users/Q/Code/LibXtract/src/libxtract.c
-c000000005459FD180000000000000AF2
-t1415183640
-s2802
-
-N/Users/Q/Code/LibXtract/src/ooura/fftsg.c
-c000000005459FD180000000000016113
-t1415183640
-s90387
-
-N/Users/Q/Code/LibXtract/src/scalar.c
-c000000005459FD180000000000005429
-t1415183640
-s21545
-
-N/Users/Q/Code/LibXtract/src/stateful.c
-c000000005459FD180000000000000B1B
-t1415183640
-s2843
-
-N/Users/Q/Code/LibXtract/src/vector.c
-c000000005459FD180000000000004431
-t1415183640
-s17457
-
-N/Users/Q/Code/LibXtract/src/window.c
-c000000005459FD180000000000001171
-t1415183640
-s4465
-
-N/Users/Q/Code/LibXtract/src/xtract_globals_private.h
-c000000005459FD18000000000000075F
-t1415183640
-s1887
-
-N/Users/Q/Code/LibXtract/src/xtract_macros_private.h
-c000000005459FD1800000000000009D4
-t1415183640
-s2516
-
-N/Users/Q/Code/LibXtract/src/xtract_window_private.h
-c000000005459FD180000000000000E00
-t1415183640
-s3584
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/LibXtract_d.LinkFileList
-c00000000545A010D00000000000005CA
-t1415184653
-s1482
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/delta.o
-t1415184653
-s4784
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/descriptors.o
-t1415184653
-s41728
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/dywapitchtrack.o
-t1415184653
-s11472
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fftsg.o
-t1415184653
-s77456
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fini.o
-t1415184653
-s1992
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/helper.o
-t1415184653
-s4772
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/init.o
-t1415184654
-s14124
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/libxtract.o
-t1415184653
-s4680
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/ringbuf.o
-t1415184653
-s15244
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/scalar.o
-t1415184654
-s30448
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/stateful.o
-t1415184653
-s4940
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/vector.o
-t1415184654
-s17624
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/window.o
-t1415184653
-s8440
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/LibXtract_d.LinkFileList
-c00000000545A00EE00000000000005E4
-t1415184622
-s1508
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/delta.o
-t1415184622
-s5492
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/descriptors.o
-t1415184622
-s44640
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/dywapitchtrack.o
-t1415184622
-s12992
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fftsg.o
-t1415184622
-s88660
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fini.o
-t1415184622
-s2428
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/helper.o
-t1415184622
-s5444
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/init.o
-t1415184622
-s15344
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/libxtract.o
-t1415184622
-s5404
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/ringbuf.o
-t1415184622
-s17660
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/scalar.o
-t1415184622
-s33624
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/stateful.o
-t1415184622
-s5568
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/vector.o
-t1415184622
-s18860
-
-N/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/window.o
-t1415184622
-s9120
-
-N/Users/Q/Code/LibXtract/xcode/lib/LibXtract_d.a
-t2
-s0
-
-N/Users/Q/Code/LibXtract/xtract/libxtract.h
-c000000005459FD180000000000003BF7
-t1415183640
-s15351
-
-N/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-c000000005459FD180000000000000DA3
-t1415183640
-s3491
-
-N/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-c000000005459FD1800000000000011FF
-t1415183640
-s4607
-
-N/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-c000000005459FD18000000000000065D
-t1415183640
-s1629
-
-N/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-c000000005459FD1800000000000069A2
-t1415183640
-s27042
-
-N/Users/Q/Code/LibXtract/xtract/xtract_stateful.h
-c000000005459FD1800000000000009C6
-t1415183640
-s2502
-
-N/Users/Q/Code/LibXtract/xtract/xtract_types.h
-c000000005459FD180000000000000677
-t1415183640
-s1655
-
-N/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-c000000005459FD180000000000002FE2
-t1415183640
-s12258
-
-CBuild AST from /Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c
-r0
-
-CBuild AST from /Users/Q/Code/LibXtract/src/delta.c
-r0
-
-CBuild AST from /Users/Q/Code/LibXtract/src/descriptors.c
-r0
-
-CBuild AST from /Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c
-r0
-
-CBuild AST from /Users/Q/Code/LibXtract/src/fini.c
-r0
-
-CBuild AST from /Users/Q/Code/LibXtract/src/helper.c
-r0
-
-CBuild AST from /Users/Q/Code/LibXtract/src/init.c
-r0
-
-CBuild AST from /Users/Q/Code/LibXtract/src/libxtract.c
-r0
-
-CBuild AST from /Users/Q/Code/LibXtract/src/ooura/fftsg.c
-r0
-
-CBuild AST from /Users/Q/Code/LibXtract/src/scalar.c
-r0
-
-CBuild AST from /Users/Q/Code/LibXtract/src/stateful.c
-r0
-
-CBuild AST from /Users/Q/Code/LibXtract/src/vector.c
-r0
-
-CBuild AST from /Users/Q/Code/LibXtract/src/window.c
-r0
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc498c4a4380aba41^94ddc4a4380aba41^---0#1#1#--18"Check dependencies36"43866E7C-0563-4C8F-9A4F-FFCB82EABF08-
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/delta.o /Users/Q/Code/LibXtract/src/delta.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877453.572561
-e436877453.868606
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/delta.o
-x/Users/Q/Code/LibXtract/src/delta.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/delta.c
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile /Users/Q/Code/LibXtract/src/delta.c174"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/delta.o /Users/Q/Code/LibXtract/src/delta.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilerc4b5928d380aba41^3b8bde8d380aba41^---0#0#1#-19%DVTDocumentLocation2@42"file:///Users/Q/Code/LibXtract/src/delta.c0000000000000000^2623"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/delta.o /Users/Q/Code/LibXtract/src/delta.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/i386 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/delta.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/delta.dia -c /Users/Q/Code/LibXtract/src/delta.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/delta.o36"87D2E330-751C-4997-8218-AF9838352CAC-
-b518B4B11-EDAD-4315-8BFC-8C33AB75A395
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/descriptors.o /Users/Q/Code/LibXtract/src/descriptors.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877453.574542
-e436877453.915711
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/descriptors.o
-x/Users/Q/Code/LibXtract/src/descriptors.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/descriptors.c
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-d/Users/Q/Code/LibXtract/src/xtract_macros_private.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Compile /Users/Q/Code/LibXtract/src/descriptors.c186"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/descriptors.o /Users/Q/Code/LibXtract/src/descriptors.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilerd828938d380aba41^5628ea8d380aba41^---0#0#1#-19%DVTDocumentLocation2@48"file:///Users/Q/Code/LibXtract/src/descriptors.c0000000000000000^2659"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/descriptors.o /Users/Q/Code/LibXtract/src/descriptors.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/i386 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/descriptors.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/descriptors.dia -c /Users/Q/Code/LibXtract/src/descriptors.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/descriptors.o36"312B0662-9E9D-475F-A0E0-2F894B93DC5D-
-b518B4B11-EDAD-4315-8BFC-8C33AB75A395
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/dywapitchtrack.o /Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877453.868431
-e436877453.914451
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/dywapitchtrack.o
-x/Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c
-d/Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c207"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/dywapitchtrack.o /Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilerd0f0de8d380aba41^9819ea8d380aba41^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c0000000000000000^2707"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/dywapitchtrack.o /Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/i386 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/dywapitchtrack.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/dywapitchtrack.dia -c /Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/dywapitchtrack.o36"5EDCABD7-23E6-47B1-A90A-A2AC9859692E-
-b518B4B11-EDAD-4315-8BFC-8C33AB75A395
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fftsg.o /Users/Q/Code/LibXtract/src/ooura/fftsg.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877453.571998
-e436877453.970765
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fftsg.o
-x/Users/Q/Code/LibXtract/src/ooura/fftsg.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/ooura/fftsg.c
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Compile /Users/Q/Code/LibXtract/src/ooura/fftsg.c180"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fftsg.o /Users/Q/Code/LibXtract/src/ooura/fftsg.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler5e83928d380aba41^6284f88d380aba41^---0#0#1#-19%DVTDocumentLocation2@48"file:///Users/Q/Code/LibXtract/src/ooura/fftsg.c0000000000000000^2635"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fftsg.o /Users/Q/Code/LibXtract/src/ooura/fftsg.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/i386 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fftsg.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fftsg.dia -c /Users/Q/Code/LibXtract/src/ooura/fftsg.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fftsg.o36"E07A0C14-EE11-4DD1-823F-E228146848BB-
-b518B4B11-EDAD-4315-8BFC-8C33AB75A395
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fini.o /Users/Q/Code/LibXtract/src/fini.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877453.571288
-e436877453.861739
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fini.o
-x/Users/Q/Code/LibXtract/src/fini.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/fini.c
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/Q/Code/LibXtract/src/fini.c172"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fini.o /Users/Q/Code/LibXtract/src/fini.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler7d59928d380aba41^7bfadc8d380aba41^---0#0#1#-19%DVTDocumentLocation2@41"file:///Users/Q/Code/LibXtract/src/fini.c0000000000000000^2617"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fini.o /Users/Q/Code/LibXtract/src/fini.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/i386 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fini.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fini.dia -c /Users/Q/Code/LibXtract/src/fini.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/fini.o36"C068E569-CC23-44D6-B065-A4FCB01F0BB3-
-b518B4B11-EDAD-4315-8BFC-8C33AB75A395
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/helper.o /Users/Q/Code/LibXtract/src/helper.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877453.571741
-e436877453.868165
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/helper.o
-x/Users/Q/Code/LibXtract/src/helper.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/helper.c
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/Q/Code/LibXtract/src/helper.c176"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/helper.o /Users/Q/Code/LibXtract/src/helper.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilere57f928d380aba41^5f41de8d380aba41^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/Q/Code/LibXtract/src/helper.c0000000000000000^2629"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/helper.o /Users/Q/Code/LibXtract/src/helper.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/i386 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/helper.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/helper.dia -c /Users/Q/Code/LibXtract/src/helper.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/helper.o36"FA0792C0-B026-415F-81E3-F3F4AF90AA54-
-b518B4B11-EDAD-4315-8BFC-8C33AB75A395
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/init.o /Users/Q/Code/LibXtract/src/init.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877453.862015
-e436877454.458672
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/init.o
-x/Users/Q/Code/LibXtract/src/init.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/init.c
-d/Users/Q/Code/LibXtract/src/fft.h
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-d/Users/Q/Code/LibXtract/src/xtract_window_private.h
-d/Users/Q/Code/LibXtract/src/xtract_globals_private.h
-d/Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/Q/Code/LibXtract/src/init.c172"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/init.o /Users/Q/Code/LibXtract/src/init.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler6919dd8d380aba41^986b758e380aba41^---0#0#1#-19%DVTDocumentLocation2@41"file:///Users/Q/Code/LibXtract/src/init.c0000000000000000^2617"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/init.o /Users/Q/Code/LibXtract/src/init.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/i386 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/init.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/init.dia -c /Users/Q/Code/LibXtract/src/init.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/init.o36"5B7DF7B3-3A51-4546-A8CB-6D340F7FCCA4-
-b518B4B11-EDAD-4315-8BFC-8C33AB75A395
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/libxtract.o /Users/Q/Code/LibXtract/src/libxtract.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877453.571422
-e436877453.861284
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/libxtract.o
-x/Users/Q/Code/LibXtract/src/libxtract.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/libxtract.c
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Compile /Users/Q/Code/LibXtract/src/libxtract.c182"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/libxtract.o /Users/Q/Code/LibXtract/src/libxtract.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler535b928d380aba41^5f7ddc8d380aba41^---0#0#1#-19%DVTDocumentLocation2@46"file:///Users/Q/Code/LibXtract/src/libxtract.c0000000000000000^2647"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/libxtract.o /Users/Q/Code/LibXtract/src/libxtract.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/i386 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/libxtract.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/libxtract.dia -c /Users/Q/Code/LibXtract/src/libxtract.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/libxtract.o36"2C6B3B22-B4DC-45D5-9743-A0CD6975D0F5-
-b518B4B11-EDAD-4315-8BFC-8C33AB75A395
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/ringbuf.o /Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877453.573157
-e436877453.882670
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/ringbuf.o
-x/Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c
-d/Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c188"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/ringbuf.o /Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler36ce928d380aba41^450de28d380aba41^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c0000000000000000^2655"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/ringbuf.o /Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/i386 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/ringbuf.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/ringbuf.dia -c /Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/ringbuf.o36"B6D83023-3DED-49B6-AB5C-4EBF5308D91F-
-b518B4B11-EDAD-4315-8BFC-8C33AB75A395
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/scalar.o /Users/Q/Code/LibXtract/src/scalar.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877453.869878
-e436877454.453464
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/scalar.o
-x/Users/Q/Code/LibXtract/src/scalar.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/scalar.c
-d/Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.h
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-d/Users/Q/Code/LibXtract/src/xtract_macros_private.h
-d/Users/Q/Code/LibXtract/src/xtract_globals_private.h
-d/Users/Q/Code/LibXtract/src/fft.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/Q/Code/LibXtract/src/scalar.c176"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/scalar.o /Users/Q/Code/LibXtract/src/scalar.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilerf8c4de8d380aba41^6a16748e380aba41^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/Q/Code/LibXtract/src/scalar.c0000000000000000^2629"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/scalar.o /Users/Q/Code/LibXtract/src/scalar.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/i386 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/scalar.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/scalar.dia -c /Users/Q/Code/LibXtract/src/scalar.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/scalar.o36"1FA06D11-E013-4208-8CE7-54B9B432E73A-
-b518B4B11-EDAD-4315-8BFC-8C33AB75A395
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/stateful.o /Users/Q/Code/LibXtract/src/stateful.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877453.572390
-e436877453.782229
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/stateful.o
-x/Users/Q/Code/LibXtract/src/stateful.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/stateful.c
-d/Users/Q/Code/LibXtract/xtract/xtract_stateful.h
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-d/Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Users/Q/Code/LibXtract/src/stateful.c180"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/stateful.o /Users/Q/Code/LibXtract/src/stateful.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilerd6ad928d380aba41^5741c88d380aba41^---0#0#1#-19%DVTDocumentLocation2@45"file:///Users/Q/Code/LibXtract/src/stateful.c0000000000000000^2641"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/stateful.o /Users/Q/Code/LibXtract/src/stateful.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/i386 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/stateful.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/stateful.dia -c /Users/Q/Code/LibXtract/src/stateful.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/stateful.o36"DCA57867-C9BC-4CDA-8828-EDBC6045DA2B-
-b518B4B11-EDAD-4315-8BFC-8C33AB75A395
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/vector.o /Users/Q/Code/LibXtract/src/vector.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877453.782505
-e436877454.310016
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/vector.o
-x/Users/Q/Code/LibXtract/src/vector.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/vector.c
-d/Users/Q/Code/LibXtract/src/fft.h
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-d/Users/Q/Code/LibXtract/src/xtract_macros_private.h
-d/Users/Q/Code/LibXtract/src/xtract_globals_private.h
-d/Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/Q/Code/LibXtract/src/vector.c176"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/vector.o /Users/Q/Code/LibXtract/src/vector.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler6f62c88d380aba41^9a5d4f8e380aba41^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/Q/Code/LibXtract/src/vector.c0000000000000000^2629"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/vector.o /Users/Q/Code/LibXtract/src/vector.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/i386 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/vector.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/vector.dia -c /Users/Q/Code/LibXtract/src/vector.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/vector.o36"0DE298E4-059E-49EA-951F-BCAE558B5D8D-
-b518B4B11-EDAD-4315-8BFC-8C33AB75A395
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/window.o /Users/Q/Code/LibXtract/src/window.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877453.862294
-e436877453.903702
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/window.o
-x/Users/Q/Code/LibXtract/src/window.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/window.c
-d/Users/Q/Code/LibXtract/src/xtract_window_private.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/Q/Code/LibXtract/src/window.c176"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/window.o /Users/Q/Code/LibXtract/src/window.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilere109dd8d380aba41^2559e78d380aba41^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/Q/Code/LibXtract/src/window.c0000000000000000^2629"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/window.o /Users/Q/Code/LibXtract/src/window.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/i386 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/window.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/window.dia -c /Users/Q/Code/LibXtract/src/window.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/window.o36"6504E25C-FC4D-4FBB-8011-FD03F9A6BA68-
-b518B4B11-EDAD-4315-8BFC-8C33AB75A395
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/delta.o /Users/Q/Code/LibXtract/src/delta.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877422.427042
-e436877422.468486
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/delta.o
-x/Users/Q/Code/LibXtract/src/delta.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/delta.c
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile /Users/Q/Code/LibXtract/src/delta.c178"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/delta.o /Users/Q/Code/LibXtract/src/delta.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilerbb636d6e380aba41^7cef776e380aba41^---0#0#1#-19%DVTDocumentLocation2@42"file:///Users/Q/Code/LibXtract/src/delta.c0000000000000000^2637"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/delta.o /Users/Q/Code/LibXtract/src/delta.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/x86_64 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/delta.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/delta.dia -c /Users/Q/Code/LibXtract/src/delta.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/delta.o36"000EF790-6E85-4C6F-BC83-411702DFE816-
-b42F45784-ED3A-4F79-915B-F7D248A25F37
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/descriptors.o /Users/Q/Code/LibXtract/src/descriptors.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877422.427694
-e436877422.512789
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/descriptors.o
-x/Users/Q/Code/LibXtract/src/descriptors.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/descriptors.c
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-d/Users/Q/Code/LibXtract/src/xtract_macros_private.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Compile /Users/Q/Code/LibXtract/src/descriptors.c190"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/descriptors.o /Users/Q/Code/LibXtract/src/descriptors.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler58a86d6e380aba41^2446836e380aba41^---0#0#1#-19%DVTDocumentLocation2@48"file:///Users/Q/Code/LibXtract/src/descriptors.c0000000000000000^2673"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/descriptors.o /Users/Q/Code/LibXtract/src/descriptors.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/x86_64 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/descriptors.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/descriptors.dia -c /Users/Q/Code/LibXtract/src/descriptors.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/descriptors.o36"82BAC7CC-5D38-4CE2-92C5-A56BD07159A7-
-b42F45784-ED3A-4F79-915B-F7D248A25F37
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/dywapitchtrack.o /Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877422.465067
-e436877422.508387
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/dywapitchtrack.o
-x/Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c
-d/Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c211"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/dywapitchtrack.o /Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler4623776e380aba41^2d26826e380aba41^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c0000000000000000^2721"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/dywapitchtrack.o /Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/x86_64 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/dywapitchtrack.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/dywapitchtrack.dia -c /Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/dywapitchtrack.o36"C9683E55-A688-4E9E-BA2E-E7C4E6C286DD-
-b42F45784-ED3A-4F79-915B-F7D248A25F37
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fftsg.o /Users/Q/Code/LibXtract/src/ooura/fftsg.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877422.424701
-e436877422.540390
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fftsg.o
-x/Users/Q/Code/LibXtract/src/ooura/fftsg.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/ooura/fftsg.c
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Compile /Users/Q/Code/LibXtract/src/ooura/fftsg.c184"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fftsg.o /Users/Q/Code/LibXtract/src/ooura/fftsg.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler47e36c6e380aba41^21578a6e380aba41^---0#0#1#-19%DVTDocumentLocation2@48"file:///Users/Q/Code/LibXtract/src/ooura/fftsg.c0000000000000000^2649"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fftsg.o /Users/Q/Code/LibXtract/src/ooura/fftsg.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/x86_64 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fftsg.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fftsg.dia -c /Users/Q/Code/LibXtract/src/ooura/fftsg.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fftsg.o36"0F7BEEE8-4FF2-43F1-8B3B-E7A862688C64-
-b42F45784-ED3A-4F79-915B-F7D248A25F37
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fini.o /Users/Q/Code/LibXtract/src/fini.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877422.422537
-e436877422.454399
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fini.o
-x/Users/Q/Code/LibXtract/src/fini.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/fini.c
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/Q/Code/LibXtract/src/fini.c176"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fini.o /Users/Q/Code/LibXtract/src/fini.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilerc24b6c6e380aba41^9011746e380aba41^---0#0#1#-19%DVTDocumentLocation2@41"file:///Users/Q/Code/LibXtract/src/fini.c0000000000000000^2631"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fini.o /Users/Q/Code/LibXtract/src/fini.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/x86_64 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fini.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fini.dia -c /Users/Q/Code/LibXtract/src/fini.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/fini.o36"4C21D675-93D5-4CFE-AEAC-B7C759EAA289-
-b42F45784-ED3A-4F79-915B-F7D248A25F37
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/helper.o /Users/Q/Code/LibXtract/src/helper.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877422.424185
-e436877422.462147
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/helper.o
-x/Users/Q/Code/LibXtract/src/helper.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/helper.c
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/Q/Code/LibXtract/src/helper.c180"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/helper.o /Users/Q/Code/LibXtract/src/helper.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler42b26c6e380aba41^ea09776e380aba41^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/Q/Code/LibXtract/src/helper.c0000000000000000^2643"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/helper.o /Users/Q/Code/LibXtract/src/helper.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/x86_64 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/helper.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/helper.dia -c /Users/Q/Code/LibXtract/src/helper.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/helper.o36"88B8E1A4-6841-4D28-8356-A91B55A7D667-
-b42F45784-ED3A-4F79-915B-F7D248A25F37
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/init.o /Users/Q/Code/LibXtract/src/init.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877422.460218
-e436877422.514938
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/init.o
-x/Users/Q/Code/LibXtract/src/init.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/init.c
-d/Users/Q/Code/LibXtract/src/fft.h
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-d/Users/Q/Code/LibXtract/src/xtract_window_private.h
-d/Users/Q/Code/LibXtract/src/xtract_globals_private.h
-d/Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/Q/Code/LibXtract/src/init.c176"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/init.o /Users/Q/Code/LibXtract/src/init.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilere6e8756e380aba41^3dd3836e380aba41^---0#0#1#-19%DVTDocumentLocation2@41"file:///Users/Q/Code/LibXtract/src/init.c0000000000000000^2631"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/init.o /Users/Q/Code/LibXtract/src/init.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/x86_64 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/init.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/init.dia -c /Users/Q/Code/LibXtract/src/init.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/init.o36"63249CD5-DEE9-4608-9EF9-0150B9CABA9E-
-b42F45784-ED3A-4F79-915B-F7D248A25F37
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/libxtract.o /Users/Q/Code/LibXtract/src/libxtract.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877422.422996
-e436877422.459900
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/libxtract.o
-x/Users/Q/Code/LibXtract/src/libxtract.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/libxtract.c
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Compile /Users/Q/Code/LibXtract/src/libxtract.c186"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/libxtract.o /Users/Q/Code/LibXtract/src/libxtract.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler68926c6e380aba41^257a756e380aba41^---0#0#1#-19%DVTDocumentLocation2@46"file:///Users/Q/Code/LibXtract/src/libxtract.c0000000000000000^2661"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/libxtract.o /Users/Q/Code/LibXtract/src/libxtract.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/x86_64 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/libxtract.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/libxtract.dia -c /Users/Q/Code/LibXtract/src/libxtract.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/libxtract.o36"1E6DBBA4-57F0-4C81-A103-47D3C44B2BDD-
-b42F45784-ED3A-4F79-915B-F7D248A25F37
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/ringbuf.o /Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877422.426331
-e436877422.476075
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/ringbuf.o
-x/Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c
-d/Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c192"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/ringbuf.o /Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler5d376d6e380aba41^3fe0796e380aba41^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c0000000000000000^2669"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/ringbuf.o /Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/x86_64 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/ringbuf.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/ringbuf.dia -c /Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/ringbuf.o36"BE101FA5-BBF4-4842-B9BB-7F8EF439F994-
-b42F45784-ED3A-4F79-915B-F7D248A25F37
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/scalar.o /Users/Q/Code/LibXtract/src/scalar.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877422.469769
-e436877422.539414
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/scalar.o
-x/Users/Q/Code/LibXtract/src/scalar.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/scalar.c
-d/Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.h
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-d/Users/Q/Code/LibXtract/src/xtract_macros_private.h
-d/Users/Q/Code/LibXtract/src/xtract_globals_private.h
-d/Users/Q/Code/LibXtract/src/fft.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/Q/Code/LibXtract/src/scalar.c180"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/scalar.o /Users/Q/Code/LibXtract/src/scalar.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler7d5b786e380aba41^6e178a6e380aba41^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/Q/Code/LibXtract/src/scalar.c0000000000000000^2643"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/scalar.o /Users/Q/Code/LibXtract/src/scalar.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/x86_64 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/scalar.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/scalar.dia -c /Users/Q/Code/LibXtract/src/scalar.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/scalar.o36"372D33BF-73A8-48FE-8405-FD4203F36B17-
-b42F45784-ED3A-4F79-915B-F7D248A25F37
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/stateful.o /Users/Q/Code/LibXtract/src/stateful.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877422.426770
-e436877422.461598
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/stateful.o
-x/Users/Q/Code/LibXtract/src/stateful.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/stateful.c
-d/Users/Q/Code/LibXtract/xtract/xtract_stateful.h
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-d/Users/Q/Code/LibXtract/src/c-ringbuf/ringbuf.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Users/Q/Code/LibXtract/src/stateful.c184"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/stateful.o /Users/Q/Code/LibXtract/src/stateful.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilerdf896d6e380aba41^0874766e380aba41^---0#0#1#-19%DVTDocumentLocation2@45"file:///Users/Q/Code/LibXtract/src/stateful.c0000000000000000^2655"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/stateful.o /Users/Q/Code/LibXtract/src/stateful.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/x86_64 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/stateful.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/stateful.dia -c /Users/Q/Code/LibXtract/src/stateful.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/stateful.o36"2865E1AA-AFDA-49DE-97FD-6BEDAB8C884D-
-b42F45784-ED3A-4F79-915B-F7D248A25F37
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/vector.o /Users/Q/Code/LibXtract/src/vector.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877422.454650
-e436877422.523822
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/vector.o
-x/Users/Q/Code/LibXtract/src/vector.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/vector.c
-d/Users/Q/Code/LibXtract/src/fft.h
-d/Users/Q/Code/LibXtract/xtract/libxtract.h
-d/Users/Q/Code/LibXtract/xtract/xtract_scalar.h
-d/Users/Q/Code/LibXtract/xtract/xtract_vector.h
-d/Users/Q/Code/LibXtract/xtract/xtract_delta.h
-d/Users/Q/Code/LibXtract/xtract/xtract_types.h
-d/Users/Q/Code/LibXtract/xtract/xtract_macros.h
-d/Users/Q/Code/LibXtract/xtract/xtract_helper.h
-d/Users/Q/Code/LibXtract/src/xtract_macros_private.h
-d/Users/Q/Code/LibXtract/src/xtract_globals_private.h
-d/Users/Q/Code/LibXtract/src/dywapitchtrack/dywapitchtrack.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/Q/Code/LibXtract/src/vector.c180"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/vector.o /Users/Q/Code/LibXtract/src/vector.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler297a746e380aba41^7619866e380aba41^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/Q/Code/LibXtract/src/vector.c0000000000000000^2643"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/vector.o /Users/Q/Code/LibXtract/src/vector.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/x86_64 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/vector.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/vector.dia -c /Users/Q/Code/LibXtract/src/vector.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/vector.o36"A340D630-7633-4AF3-94BA-9700C8F221E5-
-b42F45784-ED3A-4F79-915B-F7D248A25F37
-
-CCompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/window.o /Users/Q/Code/LibXtract/src/window.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s436877422.462674
-e436877422.500244
-r1
-xCompileC
-xbuild/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/window.o
-x/Users/Q/Code/LibXtract/src/window.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Q/Code/LibXtract/src/window.c
-d/Users/Q/Code/LibXtract/src/xtract_window_private.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/Q/Code/LibXtract/src/window.c180"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/window.o /Users/Q/Code/LibXtract/src/window.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler7f87766e380aba41^5210806e380aba41^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/Q/Code/LibXtract/src/window.c0000000000000000^2643"CompileC build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/window.o /Users/Q/Code/LibXtract/src/window.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Q/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-generated-files.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-own-target-headers.hmap -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-all-target-headers.hmap -iquote /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/LibXtract_d-project-headers.hmap -I/Users/Q/Code/LibXtract/xcode/lib/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources/x86_64 -I/Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/DerivedSources -F/Users/Q/Code/LibXtract/xcode/lib -MMD -MT dependencies -MF /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/window.d --serialize-diagnostics /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/window.dia -c /Users/Q/Code/LibXtract/src/window.c -o /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/window.o36"A35429BE-0671-4469-9098-8A9D30E42D7A-
-b42F45784-ED3A-4F79-915B-F7D248A25F37
-
-CLibtool /Users/Q/Code/LibXtract/xcode/lib/LibXtract_d.a normal i386
-s436877476.770185
-e436877476.775415
-r1
-xLibtool
-x/Users/Q/Code/LibXtract/xcode/lib/LibXtract_d.a
-xnormal
-xi386
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Libtool /Users/Q/Code/LibXtract/xcode/lib/LibXtract_d.a normal i38667"Libtool /Users/Q/Code/LibXtract/xcode/lib/LibXtract_d.a normal i386c233c5a4380aba41^fe81c6a4380aba41^---0#0#1#--616"Libtool /Users/Q/Code/LibXtract/xcode/lib/LibXtract_d.a normal i386    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/Q/Code/LibXtract/xcode/lib -filelist /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/i386/LibXtract_d.LinkFileList -o /Users/Q/Code/LibXtract/xcode/lib/LibXtract_d.a36"29F3C2A8-0DB2-4901-B6DF-9429C45B97E6-
-bE9714B38-DB19-4D44-B36A-9704011DBBC3
-
-CLibtool /Users/Q/Code/LibXtract/xcode/lib/LibXtract_d.a normal x86_64
-s436877422.541663
-e436877422.546892
-r1
-xLibtool
-x/Users/Q/Code/LibXtract/xcode/lib/LibXtract_d.a
-xnormal
-xx86_64
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Libtool /Users/Q/Code/LibXtract/xcode/lib/LibXtract_d.a normal x86_6469"Libtool /Users/Q/Code/LibXtract/xcode/lib/LibXtract_d.a normal x86_6445bb8a6e380aba41^b4018c6e380aba41^---0#0#1#--622"Libtool /Users/Q/Code/LibXtract/xcode/lib/LibXtract_d.a normal x86_64    cd /Users/Q/Code/LibXtract/xcode/LibXtract    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/Q/Code/LibXtract/xcode/lib -filelist /Users/Q/Code/LibXtract/xcode/LibXtract/build/LibXtract.build/Debug/LibXtract.build/Objects-normal/x86_64/LibXtract_d.LinkFileList -o /Users/Q/Code/LibXtract/xcode/lib/LibXtract_d.a36"CE41D698-73C1-49B0-B2F3-A8B6A18C3D3A-
-b42F45784-ED3A-4F79-915B-F7D248A25F37
-
